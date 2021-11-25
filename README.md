@@ -17,7 +17,19 @@
 | Avataaars | https://avataaars.com/ |
   
 </details>
+<hr>
 
+<details open>
+<summary>Icons resouces</summary>
+<br>
+  
+| Resource Name | Link |
+| ----------- | ----------- |
+| streamline | https://streamlinehq.com/ |
+| Feathericons   | https://feathericons.com/ |
+| Iconsout | https://iconscout.com/icons |
+  
+</details>
 <hr>
 
 <h3 align="center"> If you found this useful, make sure to follow me for more resources:</h3>
