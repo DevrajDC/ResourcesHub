@@ -34,11 +34,24 @@
 | Eva Icons | https://akveo.github.io/eva-icons/ |
 | Remix Icons | https://remixicon.com/ |
 | Anron Icons | https://www.figma.com/community/file/887986216987316139 |
-| Ionicons | https://www.figma.com/community/file/893757888128525570 |
-| Iconoir | https://www.figma.com/community/file/984690181319559475 |
+| Ionicons | https://ionic.io/ionicons |
+| Iconoir | https://iconoir.com/ |
 | Phosphor Icons | https://www.figma.com/community/file/903830135544202908 |
 | Photon Icons | https://design.firefox.com/icons/viewer/ |
-
+| Noun Project | https://thenounproject.com/ |
+| Icons8 | https://icons8.com/icons |
+| Font Awesome | https://fontawesome.com/ |
+| Material Icons | https://material.io/icons |
+| CSS Icons | https://css.gg/app |
+| Box Icons | https://boxicons.com/ |
+| Ikonate Icons | https://ikonate.com/ |
+| Iconset | https://iconset.io/ |
+| Heroicons | https://heroicons.dev/ |
+| Shape Icons | https://shape.so/ |
+| Line Icons | https://lineicons.com/icons/ |
+| Iconsvg | https://iconsvg.xyz/ |
+| Polaris Icons | https://polaris-icons.shopify.com/ |
+| EverIcons | http://www.evericons.com/ |
   
 </details>
 <hr>
@@ -62,6 +75,8 @@
 | Mixpanel Design System | https://design.mixpanel.com/ |
 | Mozilla Design System | https://protocol.mozilla.org/ |
 | Mineral UI Design System | https://mineral-ui.netlify.app/ |
+| Wonderbly Design System | http://design-system.lostmy.name/ |
+| Panda UI Design System | https://panda.sipgatedesign.com/ |
 
 </details>
 <hr>
