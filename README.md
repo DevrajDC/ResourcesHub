@@ -37,6 +37,8 @@
 | Ionicons | https://www.figma.com/community/file/893757888128525570 |
 | Iconoir | https://www.figma.com/community/file/984690181319559475 |
 | Phosphor Icons | https://www.figma.com/community/file/903830135544202908 |
+| Photon Icons | https://design.firefox.com/icons/viewer/ |
+
   
 </details>
 <hr>
@@ -47,7 +49,7 @@
   
 | Resource Name | Link |
 | ----------- | ----------- |
-| Carbon Design System | https://www.carbondesignsystem.com/ |
+| Carbon Design System by IBM | https://www.carbondesignsystem.com/ |
 | Design System Checklist | https://www.designsystemchecklist.com/ |
 | Wakanda Design System | https://design.wonderflow.ai/ |
 | Finastra Design System | https://www.figma.com/community/file/982657631921263317 |
@@ -57,7 +59,9 @@
 | Salesforce Design System | https://www.figma.com/community/file/854593583696357016 |
 | Marvel Styleguide | https://marvelapp.com/styleguide/overview/introduction |
 | Polaris by Shopify | https://www.figma.com/community/file/930504625460155381 |
-| Mixpanel | https://design.mixpanel.com/ |
+| Mixpanel Design System | https://design.mixpanel.com/ |
+| Mozilla Design System | https://protocol.mozilla.org/ |
+| Mineral UI Design System | https://mineral-ui.netlify.app/ |
 
 </details>
 <hr>
