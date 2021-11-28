@@ -1,7 +1,7 @@
 # ResourcesHub - Complete hub for all your resources.
 
 <details open>
-<summary>Illustrations</summary>
+<summary><b>Illustrations Resources<br></summary>
 <br>
   
 | Resource Name | Link |
@@ -16,12 +16,17 @@
 | Illustrations.co | https://illlustrations.co/ |
 | Avataaars | https://avataaars.com/ |
 | Iconfinder | https://www.iconfinder.com/illustrations |
+| Open Peeps | https://www.openpeeps.com/ |
+| Ouch Illustrations | https://icons8.com/illustrations |
+| Charco Illustrations | https://www.karthiksrinivas.in/charco |
+| Absurd Design | https://absurd.design/ |
+| 404 Illustrations | https://error404.fun/ |
   
 </details>
 <hr>
 
 <details open>
-<summary>Icons resouces</summary>
+<summary><b>Icons resouces<b></summary>
 <br>
   
 | Resource Name | Link |
@@ -57,7 +62,7 @@
 <hr>
 
 <details open>
-<summary>Design Systems</summary>
+<summary><b>Design Systems<b></summary>
 <br>
   
 | Resource Name | Link |
