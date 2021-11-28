@@ -79,10 +79,11 @@
 | Panda UI Design System | https://panda.sipgatedesign.com/ |
 
 </details>
+<br/>
 <hr>
 
-<h3 align="center"> If you found this useful, make sure to follow me for more resources:</h3>
-<p align="center">
+<h3 align="left"> If you found this useful, make sure to follow me for more resources:</h3>
+<p align="left">
 <a href="https://www.linkedin.com/in/devraj-chatribin/" style="text-decoration:none">
   <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -102,16 +103,8 @@
   <img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 <br />
-  
----
-
-<h3 align="center"> <b>Join our Community and feel free to drop your questions on</h3>
-<p align="center">
-   <a href="https://discord.gg/druweDMn3s"></a>
-   <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"> 
-</p>
-
----
+<hr>
+<br/>
 
 ## Want to make contributions?
 
@@ -124,13 +117,16 @@
     <tr>
       <td align="center">
         <a href="https://github.com/DevrajDC">
-          <img alt="" src="https://avatars.githubusercontent.com/u/65373279" width="130px;">
-          <br><sub><b> Devraj Chatribin</b></sub></a><br>
-        <a href="https://github.com/DevrajDC/resourceshub/" title="Code">💻 </a></td></a>
-  </td>
-    
-  </tr>
-</tbody></table>
+          <img alt="" src="https://avatars.githubusercontent.com/u/65373279" width="130px;"><br>
+          <sub><b>Devraj Chatribin</b></sub>
+        </a>
+        <br>
+        <a href="https://github.com/DevrajDC/resourceshub/" title="Code">💻</a>
+      </td></a>
+      </td>
+    </tr>
+  </tbody>
+ </table>
 
 ## Our valuable Contributors 👩:
 <a href="https://github.com/DevrajDC/resourceshub/graphs/contributors">
