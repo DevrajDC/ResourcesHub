@@ -15,6 +15,7 @@
 | DrawKit | https://drawkit.com/ |
 | Illustrations.co | https://illlustrations.co/ |
 | Avataaars | https://avataaars.com/ |
+| Iconfinder | https://www.iconfinder.com/illustrations |
   
 </details>
 <hr>
@@ -28,7 +29,36 @@
 | streamline | https://streamlinehq.com/ |
 | Feathericons   | https://feathericons.com/ |
 | Iconsout | https://iconscout.com/icons |
+| Iconfinder | https://www.iconfinder.com/icons |
+| Remix Icons | https://remixicon.com/ |
+| Eva Icons | https://akveo.github.io/eva-icons/ |
+| Remix Icons | https://remixicon.com/ |
+| Anron Icons | https://www.figma.com/community/file/887986216987316139 |
+| Ionicons | https://www.figma.com/community/file/893757888128525570 |
+| Iconoir | https://www.figma.com/community/file/984690181319559475 |
+| Phosphor Icons | https://www.figma.com/community/file/903830135544202908 |
   
+</details>
+<hr>
+
+<details open>
+<summary>Design Systems</summary>
+<br>
+  
+| Resource Name | Link |
+| ----------- | ----------- |
+| Carbon Design System | https://www.carbondesignsystem.com/ |
+| Design System Checklist | https://www.designsystemchecklist.com/ |
+| Wakanda Design System | https://design.wonderflow.ai/ |
+| Finastra Design System | https://www.figma.com/community/file/982657631921263317 |
+| Ant Design System | https://antforfigma.com/ |
+| Atlassian Design System | https://www.figma.com/community/file/857042449394640587 |
+| GitHub Primer | https://www.figma.com/community/file/854767373644076713 |
+| Salesforce Design System | https://www.figma.com/community/file/854593583696357016 |
+| Marvel Styleguide | https://marvelapp.com/styleguide/overview/introduction |
+| Polaris by Shopify | https://www.figma.com/community/file/930504625460155381 |
+| Mixpanel | https://design.mixpanel.com/ |
+
 </details>
 <hr>
 
@@ -73,9 +103,12 @@
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href="https://github.com/DevrajDC"><img alt="" src="https://avatars.githubusercontent.com/u/65373279" width="130px;"><br><sub><b> Devraj Chatribin </b></sub></a><br><a href="https://github.com/DevrajDC/resourceshub/" title="Code">💻 </a></td></a></td>
-  <td align="center"><a href="https://github.com/Shridhar-dev"><img alt="" src="https://avatars.githubusercontent.com/u/52820662" width="130px;"><br><sub><b> Shridhar Kamat </b></sub></a><br><a href="https://github.com/DevrajDC/resourceshub/" title="Code">💻 </a></td> </a></td>
-  <td align="center"><a href="https://github.com/lostgirljourney"><img alt="" src="https://avatars.githubusercontent.com/u/56036475" width="130px;"><br><sub><b> Falguni Sarkar </b></sub></a><br><a href="https://github.com/DevrajDC/resourceshub/" title="Code">💻 </a></td> </a></td>
+      <td align="center">
+        <a href="https://github.com/DevrajDC">
+          <img alt="" src="https://avatars.githubusercontent.com/u/65373279" width="130px;">
+          <br><sub><b> Devraj Chatribin</b></sub></a><br>
+        <a href="https://github.com/DevrajDC/resourceshub/" title="Code">💻 </a></td></a>
+  </td>
     
   </tr>
 </tbody></table>
