@@ -28,6 +28,34 @@
 </details>
 <hr>
 
+
+
+<!--------------------------- Color Resources --------------------------->
+<details open>
+<summary><b>Color Resources<br></summary>
+<br>
+  
+| Resource Name | Link |
+| ----------- | ----------- |
+| HappyHues | https://www.happyhues.co/ |
+| Duo   | https://duo.alexpate.uk/ |
+| Adobe Color | https://color.adobe.com/explore |
+| Khroma | http://khroma.co/ |
+| Color Hunt | https://colorhunt.co/ |
+| ColorInspo | https://colorsinspo.com/ |
+| Sip App | https://sipapp.io/ |
+| Coolors | https://coolors.co/ |
+| Eva Color Generator | https://colors.eva.design/ |
+| ColorClaim | https://vanschneider.com/colors |
+| Pigment | https://pigment.shapefactory.co/ |
+| Brand Colors | https://brandcolors.net/ |
+| LOL Colors | https://www.webdesignrankings.com/resources/lolcolors |
+| Color Spark | https://colorspark.app/ |
+| Curls | https://www.culrs.com/ |
+  
+</details>
+<hr>
+
   
   
 
