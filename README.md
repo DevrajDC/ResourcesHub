@@ -65,6 +65,7 @@
 | Polaris Icons | https://polaris-icons.shopify.com/ |
 | EverIcons | http://www.evericons.com/ |
 | FreeIcons | https://www.iconshock.com/freeicons/ |
+| IOS Icon Gallery | https://www.iosicongallery.com/ |
   
 </details>
 <hr>
@@ -108,12 +109,35 @@
 | Resource Name | Link |
 | ----------- | ----------- |
 | Dribbble | https://dribbble.com/ |
+| Awwwards | https://www.awwwards.com/ |
+| Behance | https://www.behance.net/ |
 | Muzli | https://muz.li/ |
 | Mobbin | https://mobbin.design/ |
 | Nicely Done | http://nicelydone.club/ |
 | UI Sources | https://www.uisources.com/home |
 | Nicely Done | https://nicelydone.club/ |
 | ScreenLane | https://screenlane.com/ |
+| Best Gallery | https://bestwebsite.gallery/ |
+| One Page love | https://onepagelove.com/ |
+| UI Jar | https://uijar.com/ |
+| Collect UI | https://collectui.com/ |
+| Lapa Ninja | https://www.lapa.ninja/ |
+| H69.Design | https://www.h69.design/ |
+| Land Book | https://land-book.com/ |
+| Designer Hunt | https://www.designerhunt.io/ |
+| Dark Mode Design | https://www.darkmodedesign.com/ |
+| Pattern Collect | https://www.codeinwp.com/pattern-collection/ |
+| Bestfolios | https://www.bestfolios.com/ |
+| EcommerceDesigns | https://ecomm.design/ |
+| Minimal Gallery | https://minimal.gallery/ |
+| Site Inspire | https://www.siteinspire.com/ |
+| Really Good Emails | https://reallygoodemails.com/ |
+| Httpster | https://httpster.net/ |
+| Siiimple | https://siiimple.com/ |
+| Instant Logo Search | http://instantlogosearch.com/ |
+| UserOnboard | https://www.useronboard.com/user-onboarding-teardowns/ |
+| Interfaces Pro | https://www.interfaces.pro/ |
+| Scrnshts | https://scrnshts.club/ |
 
 </details>
 <br/>
