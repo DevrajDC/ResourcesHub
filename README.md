@@ -1,5 +1,7 @@
 # ResourcesHub - Complete hub for all your resources.
 
+
+<!--------------------------- Illustrations Resources --------------------------->
 <details open>
 <summary><b>Illustrations Resources<br></summary>
 <br>
@@ -26,6 +28,10 @@
 </details>
 <hr>
 
+  
+  
+
+<!--------------------------- Icons resouces --------------------------->
 <details open>
 <summary><b>Icons resouces<b></summary>
 <br>
@@ -63,6 +69,10 @@
 </details>
 <hr>
 
+  
+  
+
+<!--------------------------- Design Systems --------------------------->
 <details open>
 <summary><b>Design Systems<b></summary>
 <br>
@@ -88,6 +98,23 @@
 </details>
 <br/>
 <hr>
+
+
+<!--------------------------- Design Systems --------------------------->
+<details open>
+<summary><b>Websites for Inspiration<b></summary>
+<br>
+  
+| Resource Name | Link |
+| ----------- | ----------- |
+| Dribbble | https://dribbble.com/ |
+| Muzli | https://muz.li/ |
+
+</details>
+<br/>
+<hr>
+
+
 
 <h3 align="left"> If you found this useful, make sure to follow me for more resources:</h3>
 <p align="left">
