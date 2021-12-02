@@ -21,6 +21,7 @@
 | Charco Illustrations | https://www.karthiksrinivas.in/charco |
 | Absurd Design | https://absurd.design/ |
 | 404 Illustrations | https://error404.fun/ |
+| 3D Christmas Illustrations | https://christmas.wannathis.one/ |
   
 </details>
 <hr>
