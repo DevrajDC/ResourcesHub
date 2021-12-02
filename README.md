@@ -57,6 +57,7 @@
 | Iconsvg | https://iconsvg.xyz/ |
 | Polaris Icons | https://polaris-icons.shopify.com/ |
 | EverIcons | http://www.evericons.com/ |
+| FreeIcons | https://www.iconshock.com/freeicons/ |
   
 </details>
 <hr>
