@@ -75,6 +75,7 @@
   
 | Resource Name | Link |
 | ----------- | ----------- |
+| Heroicons | https://heroicons.dev/ |
 | streamline | https://streamlinehq.com/ |
 | Feathericons   | https://feathericons.com/ |
 | Iconsout | https://iconscout.com/icons |
