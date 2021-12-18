@@ -19,6 +19,7 @@
 | Humaans   | https://www.humaaans.com/ |
 | Undraw | https://undraw.co/illustrations |
 | Open Doodles | https://opendoodles.com/ |
+| Paaatterns | https://products.ls.graphics/paaatterns/ |
 | Blush | https://blush.design/ |
 | Control | https://control.rocks/ |
 | DrawKit | https://drawkit.com/ |
@@ -27,6 +28,7 @@
 | Iconfinder | https://www.iconfinder.com/illustrations |
 | Open Peeps | https://www.openpeeps.com/ |
 | Ouch Illustrations | https://icons8.com/illustrations |
+| The Pattern Library | http://thepatternlibrary.com/ |
 | Charco Illustrations | https://www.karthiksrinivas.in/charco |
 | Absurd Design | https://absurd.design/ |
 | 404 Illustrations | https://error404.fun/ |
@@ -115,7 +117,10 @@
   
 | Resource Name | Link |
 | ----------- | ----------- |
+| UI Design Daily | https://uidesigndaily.com/ |
 | Carbon Design System by IBM | https://www.carbondesignsystem.com/ |
+| 100 UI Library | https://100dailyui.webflow.io/ |
+| Sketch App Sources | https://www.sketchappsources.com/ |
 | Design System Checklist | https://www.designsystemchecklist.com/ |
 | Wakanda Design System | https://design.wonderflow.ai/ |
 | Finastra Design System | https://www.figma.com/community/file/982657631921263317 |
@@ -136,7 +141,7 @@
 <hr>
 
 
-<!--------------------------- Design Systems --------------------------->
+<!--------------------------- Design Inspirations --------------------------->
 <details open>
 <summary><b>Websites for Inspiration<b></summary>
 <br>
