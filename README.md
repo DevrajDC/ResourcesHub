@@ -35,6 +35,9 @@
 | 3D Christmas Illustrations | https://christmas.wannathis.one/ |
 | Stubborn Generator | https://stubborn.fun/ |
 | BigHeads Character Generator | https://bigheads.io/ |
+| Shapefest | https://www.shapefest.com/ |
+| Khagwal 3D | https://3d.khagwal.co/ |
+| HANDZ | https://www.handz.design/|
   
 </details>
 <hr>
@@ -65,6 +68,7 @@
 | Curls | https://www.culrs.com/ |
 | TailwindInk | https://tailwind.ink/ | 
 | Grabient | https://www.grabient.com/ |
+| Actionable Color Palettes | https://colorpalettes.colorion.co/ |
   
 </details>
 <hr>
@@ -110,7 +114,10 @@
 | IOS Icon Gallery | https://www.iosicongallery.com/ |
 | Visiwig Icons | https://www.visiwig.com/icons/ |
 | Tabler Icons | https://tabler-icons.io/ |
-  
+| Flaticon   | https://www.flaticon.com/ |
+| svgrepo   | https://www.svgrepo.com/ |
+| 3dIcons   | https://3dicons.co/ |
+
 </details>
 <hr>
 
