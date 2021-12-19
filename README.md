@@ -33,6 +33,8 @@
 | Absurd Design | https://absurd.design/ |
 | 404 Illustrations | https://error404.fun/ |
 | 3D Christmas Illustrations | https://christmas.wannathis.one/ |
+| Stubborn Generator | https://stubborn.fun/ |
+| BigHeads Character Generator | https://bigheads.io/ |
   
 </details>
 <hr>
@@ -61,6 +63,8 @@
 | LOL Colors | https://www.webdesignrankings.com/resources/lolcolors |
 | Color Spark | https://colorspark.app/ |
 | Curls | https://www.culrs.com/ |
+| TailwindInk | https://tailwind.ink/ | 
+| Grabient | https://www.grabient.com/ |
   
 </details>
 <hr>
@@ -68,9 +72,9 @@
   
   
 
-<!--------------------------- Icons resouces --------------------------->
+<!--------------------------- Icons resources --------------------------->
 <details open>
-<summary><b>Icons resouces<b></summary>
+<summary><b>Icons resources<b></summary>
 <br>
   
 | Resource Name | Link |
@@ -104,6 +108,8 @@
 | EverIcons | http://www.evericons.com/ |
 | FreeIcons | https://www.iconshock.com/freeicons/ |
 | IOS Icon Gallery | https://www.iosicongallery.com/ |
+| Visiwig Icons | https://www.visiwig.com/icons/ |
+| Tabler Icons | https://tabler-icons.io/ |
   
 </details>
 <hr>
@@ -184,6 +190,25 @@
 <br/>
 <hr>
 
+<!--------------------------- Font Resources --------------------------->
+<details open>
+<summary><b>Font Resources</b></summary>
+<br/>
+
+| Resource Name | Link |
+| ----------- | ----------- |
+| Google Fonts | https://fonts.google.com/ |
+| Font Squirrel | https://www.fontsquirrel.com/ |
+| Adobe Fonts | https://fonts.adobe.com/fonts |
+| Web Safe Fonts | https://www.w3schools.com/cssref/css_websafe_fonts.asp |
+| Typewolf: Font Pairing | https://www.typewolf.com/ |
+| Font Pair | https://www.fontpair.co/ |
+| Typ.io: Font Pairing | https://typ.io/ |
+| WhatFont | https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en |
+
+</details>
+<br/>
+<hr>
 
 
 <h3 align="left"> If you found this useful, make sure to follow me for more resources:</h3>
