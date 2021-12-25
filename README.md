@@ -120,7 +120,7 @@
 ## Design Systems
   
 | Resource Link |
-| ----------- | ----------- |
+| ----------- |
 | [https://uidesigndaily.com/](https://uidesigndaily.com/) |
 | [https://www.carbondesignsystem.com/](https://www.carbondesignsystem.com/) |
 | [https://100dailyui.webflow.io/](https://100dailyui.webflow.io/) |
