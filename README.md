@@ -217,9 +217,8 @@
 <a href="mailto:devrajchatribin9978@gmail.com" style="text-decoration:none">
   <img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-<br />
+
 ---
-<br/>
 
 
 ## Want to make contributions?
