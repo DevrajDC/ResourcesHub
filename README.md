@@ -9,6 +9,20 @@
 ## What is ResourcesHub?
 > **ResourcesHub** focuses on collecting high quality resources and tools which can be used by designers and developers in daily work. The repo keeps being updated continuously and new resouces are been added. Don't hesitate to open an [issue](https://github.com/DevrajDC/resourceshub/issues/new) or create [pull request](https://github.com/DevrajDC/resourceshub/pulls) to contribute to the project.
 
+If you like this repo, be sure to ⭐ it.
+
+---
+
+## Table of Contents
+
+- [Illustrations Resources](#illustrations-resources)
+- [Color Resources](#color-resources)
+- [Icons resources](#icons-resources)
+- [Design Systems](#design-systems)
+- [Websites for Inspiration](#websites-for-inspiration)
+- [Font Resources](#font-resources)
+
+---
 
 <!--------------------------- Illustrations Resources --------------------------->
 ## Illustrations Resources
