@@ -218,12 +218,13 @@
   <img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 <br />
-<hr>
+---
 <br/>
 
-## Want to make contributions?
 
+## Want to make contributions?
 > Please feel free to add in more resources and create a pull request to this repo.
+
 
 ## Project Maintainers 🛠
 
@@ -243,7 +244,8 @@
   </tbody>
  </table>
 
-## Our valuable Contributors 👩:
+## Our valuable Contributors:
+
 <a href="https://github.com/DevrajDC/resourceshub/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=DevrajDC/resourceshub" />
 </a>
