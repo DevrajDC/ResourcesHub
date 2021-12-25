@@ -96,7 +96,7 @@ If you like this repo, be sure to ⭐ it.
 | Resource Link |
 | ----------- |
 | [https://heroicons.dev/](https://heroicons.dev/) |
-| [https://streamlinehq.com/](https://streamlinehq.com/)) |
+| [https://streamlinehq.com/](https://streamlinehq.com/) |
 | [https://feathericons.com/](https://feathericons.com/) |
 | [https://iconscout.com/icons](https://iconscout.com/icons) |
 | [https://www.iconfinder.com/icons](https://www.iconfinder.com/icons) |
