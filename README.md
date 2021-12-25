@@ -144,69 +144,60 @@
 
 
 <!--------------------------- Design Inspirations --------------------------->
-<details open>
-<summary><b>Websites for Inspiration<b></summary>
-<br>
+## Websites for Inspiration
   
-| Resource Name | Link |
-| ----------- | ----------- |
-| Dribbble | https://dribbble.com/ |
-| Awwwards | https://www.awwwards.com/ |
-| Behance | https://www.behance.net/ |
-| Muzli | https://muz.li/ |
-| Mobbin | https://mobbin.design/ |
-| Nicely Done | http://nicelydone.club/ |
-| UI Sources | https://www.uisources.com/home |
-| Nicely Done | https://nicelydone.club/ |
-| ScreenLane | https://screenlane.com/ |
-| Best Gallery | https://bestwebsite.gallery/ |
-| One Page love | https://onepagelove.com/ |
-| UI Jar | https://uijar.com/ |
-| Collect UI | https://collectui.com/ |
-| Lapa Ninja | https://www.lapa.ninja/ |
-| H69.Design | https://www.h69.design/ |
-| Land Book | https://land-book.com/ |
-| Designer Hunt | https://www.designerhunt.io/ |
-| Dark Mode Design | https://www.darkmodedesign.com/ |
-| Pattern Collect | https://www.codeinwp.com/pattern-collection/ |
-| Bestfolios | https://www.bestfolios.com/ |
-| EcommerceDesigns | https://ecomm.design/ |
-| Minimal Gallery | https://minimal.gallery/ |
-| Site Inspire | https://www.siteinspire.com/ |
-| Really Good Emails | https://reallygoodemails.com/ |
-| Httpster | https://httpster.net/ |
-| Siiimple | https://siiimple.com/ |
-| Instant Logo Search | http://instantlogosearch.com/ |
-| UserOnboard | https://www.useronboard.com/user-onboarding-teardowns/ |
-| Interfaces Pro | https://www.interfaces.pro/ |
-| Scrnshts | https://scrnshts.club/ |
+| Resource Links |
+| ----------- |
+| [https://dribbble.com/](https://dribbble.com/) |
+| [https://www.awwwards.com/](https://www.awwwards.com/) |
+| [https://www.behance.net/](https://www.behance.net/) |
+| [https://muz.li/](https://muz.li/) |
+| [https://mobbin.design/](https://mobbin.design/) |
+| [http://nicelydone.club/](http://nicelydone.club/) |
+| [https://www.uisources.com/home](https://www.uisources.com/home) |
+| [https://nicelydone.club/](https://nicelydone.club/) |
+| [https://screenlane.com/](https://screenlane.com/) |
+| [https://bestwebsite.gallery/](https://bestwebsite.gallery/) |
+| [https://onepagelove.com/](https://onepagelove.com/) |
+| [https://uijar.com/](https://uijar.com/) |
+| [https://collectui.com/](https://collectui.com/) |
+| [https://www.lapa.ninja/](https://www.lapa.ninja/) |
+| [https://www.h69.design/](https://www.h69.design/) |
+| [https://land-book.com/](https://land-book.com/) |
+| [https://www.designerhunt.io/](https://www.designerhunt.io/) |
+| [https://www.darkmodedesign.com/](https://www.darkmodedesign.com/) |
+| [https://www.codeinwp.com/pattern-collection/](https://www.codeinwp.com/pattern-collection/) |
+| [https://www.bestfolios.com/](https://www.bestfolios.com/) |
+| [https://ecomm.design/](https://ecomm.design/) |
+| [https://minimal.gallery/](https://minimal.gallery/) |
+| [https://www.siteinspire.com/](https://www.siteinspire.com/) |
+| [https://reallygoodemails.com/](https://reallygoodemails.com/) |
+| [https://httpster.net/](https://httpster.net/) |
+| [https://siiimple.com/](https://siiimple.com/) |
+| [http://instantlogosearch.com/](http://instantlogosearch.com/) |
+| [https://www.useronboard.com/user-onboarding-teardowns/](https://www.useronboard.com/user-onboarding-teardowns/) |
+| [https://www.interfaces.pro/](https://www.interfaces.pro/) |
+| [https://scrnshts.club/](https://scrnshts.club/) |
 
-</details>
-<br/>
-<hr>
+---
 
 <!--------------------------- Font Resources --------------------------->
-<details open>
-<summary><b>Font Resources</b></summary>
-<br/>
+## Font Resources
 
-| Resource Name | Link |
-| ----------- | ----------- |
-| Google Fonts | https://fonts.google.com/ |
-| Font Squirrel | https://www.fontsquirrel.com/ |
-| Adobe Fonts | https://fonts.adobe.com/fonts |
-| Web Safe Fonts | https://www.w3schools.com/cssref/css_websafe_fonts.asp |
-| Typewolf: Font Pairing | https://www.typewolf.com/ |
-| Font Pair | https://www.fontpair.co/ |
-| Typ.io: Font Pairing | https://typ.io/ |
-| WhatFont | https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en |
+| Resource Links |
+| ----------- |
+| [https://fonts.google.com/](https://fonts.google.com/) |
+| [https://www.fontsquirrel.com/](https://www.fontsquirrel.com/) |
+| [https://fonts.adobe.com/fonts](https://fonts.adobe.com/fonts) |
+| [https://www.w3schools.com/cssref/css_websafe_fonts.asp](https://www.w3schools.com/cssref/css_websafe_fonts.asp) |
+| [https://www.typewolf.com/](https://www.typewolf.com/) |
+| [https://www.fontpair.co/](https://www.fontpair.co/) |
+| [https://typ.io/](https://typ.io/) |
+| [https://chrome.google.com/webstore/detail/whatfont/](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en) |
 
-</details>
-<br/>
-<hr>
+---
 
-
-<h3 align="left"> If you found this useful, make sure to follow me for more resources:</h3>
+### If you found this useful, make sure to follow me for more resources:
 <p align="left">
 <a href="https://www.linkedin.com/in/devraj-chatribin/" style="text-decoration:none">
   <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
