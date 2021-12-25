@@ -44,33 +44,30 @@
 
 
 <!--------------------------- Color Resources --------------------------->
-<details open>
-<summary><b>Color Resources<br></summary>
-<br>
+## Color Resources
+
+| Resource Link |
+| ----------- |
+| [https://www.happyhues.co/](https://www.happyhues.co/) |
+| [https://duo.alexpate.uk/](https://duo.alexpate.uk/) |
+| [https://color.adobe.com/explore](https://color.adobe.com/explore) |
+| [http://khroma.co/](http://khroma.co/) |
+| [https://colorhunt.co/](https://colorhunt.co/) |
+| [https://colorsinspo.com/](https://colorsinspo.com/) |
+| [https://sipapp.io/](https://sipapp.io/) |
+| [https://coolors.co/](https://coolors.co/) |
+| [https://colors.eva.design/](https://colors.eva.design/) |
+| [https://vanschneider.com/colors](https://vanschneider.com/colors) |
+| [https://pigment.shapefactory.co/](https://pigment.shapefactory.co/) |
+| [https://brandcolors.net/](https://brandcolors.net/) |
+| [https://www.webdesignrankings.com/resources/lolcolors](https://www.webdesignrankings.com/resources/lolcolors) |
+| [https://colorspark.app/](https://colorspark.app/) |
+| [https://www.culrs.com/](https://www.culrs.com/) |
+| [https://tailwind.ink/](https://tailwind.ink/) | 
+| [https://www.grabient.com/](https://www.grabient.com/) |
+| [https://colorpalettes.colorion.co/](https://colorpalettes.colorion.co/) |
   
-| Resource Name | Link |
-| ----------- | ----------- |
-| HappyHues | https://www.happyhues.co/ |
-| Duo   | https://duo.alexpate.uk/ |
-| Adobe Color | https://color.adobe.com/explore |
-| Khroma | http://khroma.co/ |
-| Color Hunt | https://colorhunt.co/ |
-| ColorInspo | https://colorsinspo.com/ |
-| Sip App | https://sipapp.io/ |
-| Coolors | https://coolors.co/ |
-| Eva Color Generator | https://colors.eva.design/ |
-| ColorClaim | https://vanschneider.com/colors |
-| Pigment | https://pigment.shapefactory.co/ |
-| Brand Colors | https://brandcolors.net/ |
-| LOL Colors | https://www.webdesignrankings.com/resources/lolcolors |
-| Color Spark | https://colorspark.app/ |
-| Curls | https://www.culrs.com/ |
-| TailwindInk | https://tailwind.ink/ | 
-| Grabient | https://www.grabient.com/ |
-| Actionable Color Palettes | https://colorpalettes.colorion.co/ |
-  
-</details>
-<hr>
+---
 
   
   
