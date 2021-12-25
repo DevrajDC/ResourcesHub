@@ -11,38 +11,35 @@
 
 
 <!--------------------------- Illustrations Resources --------------------------->
-<details open>
-<summary><b>Illustrations Resources<br></summary>
-<br>
+## Illustrations Resources
   
-| Resource Name | Link |
-| ----------- | ----------- |
-| lukaszadam.com | https://lukaszadam.com/illustrations |
-| Humaans   | https://www.humaaans.com/ |
-| Undraw | https://undraw.co/illustrations |
-| Open Doodles | https://opendoodles.com/ |
-| Paaatterns | https://products.ls.graphics/paaatterns/ |
-| Blush | https://blush.design/ |
-| Control | https://control.rocks/ |
-| DrawKit | https://drawkit.com/ |
-| Illustrations.co | https://illlustrations.co/ |
-| Avataaars | https://avataaars.com/ |
-| Iconfinder | https://www.iconfinder.com/illustrations |
-| Open Peeps | https://www.openpeeps.com/ |
-| Ouch Illustrations | https://icons8.com/illustrations |
-| The Pattern Library | http://thepatternlibrary.com/ |
-| Charco Illustrations | https://www.karthiksrinivas.in/charco |
-| Absurd Design | https://absurd.design/ |
-| 404 Illustrations | https://error404.fun/ |
-| 3D Christmas Illustrations | https://christmas.wannathis.one/ |
-| Stubborn Generator | https://stubborn.fun/ |
-| BigHeads Character Generator | https://bigheads.io/ |
-| Shapefest | https://www.shapefest.com/ |
-| Khagwal 3D | https://3d.khagwal.co/ |
-| HANDZ | https://www.handz.design/|
+| Resource Link |
+| ----------- |
+| [https://lukaszadam.com/illustrations](https://lukaszadam.com/illustrations) |
+| [https://www.humaaans.com/](https://www.humaaans.com/) |
+| [https://undraw.co/illustrations](https://undraw.co/illustrations) |
+| [https://opendoodles.com/](https://opendoodles.com/) |
+| [https://products.ls.graphics/paaatterns/](https://products.ls.graphics/paaatterns/) |
+| [https://blush.design/](https://blush.design/) |
+| [https://control.rocks/](https://control.rocks/) |
+| [https://drawkit.com/](https://drawkit.com/) |
+| [https://illlustrations.co/](https://illlustrations.co/) |
+| [https://avataaars.com/](https://avataaars.com/) |
+| [https://www.iconfinder.com/illustrations](https://www.iconfinder.com/illustrations) |
+| [https://www.openpeeps.com/](https://www.openpeeps.com/) |
+| [https://icons8.com/illustrations](https://icons8.com/illustrations) |
+| [http://thepatternlibrary.com/](http://thepatternlibrary.com/) |
+| [https://www.karthiksrinivas.in/charco](https://www.karthiksrinivas.in/charco) |
+| [https://absurd.design/](https://absurd.design/) |
+| [https://error404.fun/](https://error404.fun/) |
+| [https://christmas.wannathis.one/](https://christmas.wannathis.one/) |
+| [https://stubborn.fun/](https://stubborn.fun/) |
+| [https://bigheads.io/](https://bigheads.io/) |
+| [https://www.shapefest.com/](https://www.shapefest.com/) |
+| [https://3d.khagwal.co/](https://3d.khagwal.co/) |
+| [https://www.handz.design/](https://www.handz.design/) |
   
-</details>
-<hr>
+---
 
 
 
