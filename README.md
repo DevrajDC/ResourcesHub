@@ -224,7 +224,7 @@ If you like this repo, be sure to ⭐ it.
 ---
 
 ### If you found this useful, make sure to follow me for more resources:
-<p align="left">
+
 <a href="https://www.linkedin.com/in/devraj-chatribin/" style="text-decoration:none">
   <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
