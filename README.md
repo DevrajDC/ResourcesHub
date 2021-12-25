@@ -117,34 +117,30 @@
   
 
 <!--------------------------- Design Systems --------------------------->
-<details open>
-<summary><b>Design Systems<b></summary>
-<br>
+## Design Systems
   
-| Resource Name | Link |
+| Resource Link |
 | ----------- | ----------- |
-| UI Design Daily | https://uidesigndaily.com/ |
-| Carbon Design System by IBM | https://www.carbondesignsystem.com/ |
-| 100 UI Library | https://100dailyui.webflow.io/ |
-| Sketch App Sources | https://www.sketchappsources.com/ |
-| Design System Checklist | https://www.designsystemchecklist.com/ |
-| Wakanda Design System | https://design.wonderflow.ai/ |
-| Finastra Design System | https://www.figma.com/community/file/982657631921263317 |
-| Ant Design System | https://antforfigma.com/ |
-| Atlassian Design System | https://www.figma.com/community/file/857042449394640587 |
-| GitHub Primer | https://www.figma.com/community/file/854767373644076713 |
-| Salesforce Design System | https://www.figma.com/community/file/854593583696357016 |
-| Marvel Styleguide | https://marvelapp.com/styleguide/overview/introduction |
-| Polaris by Shopify | https://www.figma.com/community/file/930504625460155381 |
-| Mixpanel Design System | https://design.mixpanel.com/ |
-| Mozilla Design System | https://protocol.mozilla.org/ |
-| Mineral UI Design System | https://mineral-ui.netlify.app/ |
-| Wonderbly Design System | http://design-system.lostmy.name/ |
-| Panda UI Design System | https://panda.sipgatedesign.com/ |
+| [https://uidesigndaily.com/](https://uidesigndaily.com/) |
+| [https://www.carbondesignsystem.com/](https://www.carbondesignsystem.com/) |
+| [https://100dailyui.webflow.io/](https://100dailyui.webflow.io/) |
+| [https://www.sketchappsources.com/](https://www.sketchappsources.com/) |
+| [https://www.designsystemchecklist.com/](https://www.designsystemchecklist.com/) |
+| [https://design.wonderflow.ai/](https://design.wonderflow.ai/) |
+| [https://www.figma.com/community/file/982657631921263317](https://www.figma.com/community/file/982657631921263317) |
+| [https://antforfigma.com/](https://antforfigma.com/) |
+| [https://www.figma.com/community/file/857042449394640587](https://www.figma.com/community/file/857042449394640587) |
+| [https://www.figma.com/community/file/854767373644076713](https://www.figma.com/community/file/854767373644076713) |
+| [https://www.figma.com/community/file/854593583696357016](https://www.figma.com/community/file/854593583696357016) |
+| [https://marvelapp.com/styleguide/overview/introduction](https://marvelapp.com/styleguide/overview/introduction) |
+| [https://www.figma.com/community/file/930504625460155381](https://www.figma.com/community/file/930504625460155381) |
+| [https://design.mixpanel.com/](https://design.mixpanel.com/) |
+| [https://protocol.mozilla.org/](https://protocol.mozilla.org/) |
+| [https://mineral-ui.netlify.app/](https://mineral-ui.netlify.app/) |
+| [http://design-system.lostmy.name/](http://design-system.lostmy.name/) |
+| [https://panda.sipgatedesign.com/](https://panda.sipgatedesign.com/) |
 
-</details>
-<br/>
-<hr>
+---
 
 
 <!--------------------------- Design Inspirations --------------------------->
