@@ -263,7 +263,6 @@ If you like this repo, be sure to ⭐ it.
         </a>
         <br>
         <a href="https://github.com/DevrajDC/resourceshub/" title="Code">💻</a>
-      </td></a>
       </td>
     </tr>
   </tbody>
