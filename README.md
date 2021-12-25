@@ -73,82 +73,74 @@
   
 
 <!--------------------------- Icons resources --------------------------->
-<details open>
-<summary><b>Icons resources<b></summary>
-<br>
+## Icons resources
   
-| Resource Name | Link |
-| ----------- | ----------- |
-| Heroicons | https://heroicons.dev/ |
-| streamline | https://streamlinehq.com/ |
-| Feathericons   | https://feathericons.com/ |
-| Iconsout | https://iconscout.com/icons |
-| Iconfinder | https://www.iconfinder.com/icons |
-| Remix Icons | https://remixicon.com/ |
-| Eva Icons | https://akveo.github.io/eva-icons/ |
-| Remix Icons | https://remixicon.com/ |
-| Anron Icons | https://www.figma.com/community/file/887986216987316139 |
-| Ionicons | https://ionic.io/ionicons |
-| Iconoir | https://iconoir.com/ |
-| Phosphor Icons | https://www.figma.com/community/file/903830135544202908 |
-| Photon Icons | https://design.firefox.com/icons/viewer/ |
-| Noun Project | https://thenounproject.com/ |
-| Icons8 | https://icons8.com/icons |
-| Font Awesome | https://fontawesome.com/ |
-| Material Icons | https://material.io/icons |
-| CSS Icons | https://css.gg/app |
-| Box Icons | https://boxicons.com/ |
-| Ikonate Icons | https://ikonate.com/ |
-| Iconset | https://iconset.io/ |
-| Heroicons | https://heroicons.dev/ |
-| Shape Icons | https://shape.so/ |
-| Line Icons | https://lineicons.com/icons/ |
-| Iconsvg | https://iconsvg.xyz/ |
-| Polaris Icons | https://polaris-icons.shopify.com/ |
-| EverIcons | http://www.evericons.com/ |
-| FreeIcons | https://www.iconshock.com/freeicons/ |
-| IOS Icon Gallery | https://www.iosicongallery.com/ |
-| Visiwig Icons | https://www.visiwig.com/icons/ |
-| Tabler Icons | https://tabler-icons.io/ |
-| Flaticon   | https://www.flaticon.com/ |
-| svgrepo   | https://www.svgrepo.com/ |
-| 3dIcons   | https://3dicons.co/ |
+| Resource Link |
+| ----------- |
+| [https://heroicons.dev/](https://heroicons.dev/) |
+| [https://streamlinehq.com/](https://streamlinehq.com/)) |
+| [https://feathericons.com/](https://feathericons.com/) |
+| [https://iconscout.com/icons](https://iconscout.com/icons) |
+| [https://www.iconfinder.com/icons](https://www.iconfinder.com/icons) |
+| [https://remixicon.com/](https://remixicon.com/) |
+| [https://akveo.github.io/eva-icons/](https://akveo.github.io/eva-icons/) |
+| [https://remixicon.com/](https://remixicon.com/) |
+| [https://www.figma.com/community/file/887986216987316139](https://www.figma.com/community/file/887986216987316139) |
+| [https://ionic.io/ionicons](https://ionic.io/ionicons) |
+| [https://iconoir.com/](https://iconoir.com/) |
+| [https://www.figma.com/community/file/903830135544202908](https://www.figma.com/community/file/903830135544202908) |
+| [https://design.firefox.com/icons/viewer/](https://design.firefox.com/icons/viewer/) |
+| [https://thenounproject.com/](https://thenounproject.com/) |
+| [https://icons8.com/icons](https://icons8.com/icons) |
+| [https://fontawesome.com/](https://fontawesome.com/) |
+| [https://material.io/icons](https://material.io/icons) |
+| [https://css.gg/app](https://css.gg/app) |
+| [https://boxicons.com/](https://boxicons.com/) |
+| [https://ikonate.com/](https://ikonate.com/) |
+| [https://iconset.io/](https://iconset.io/) |
+| [https://heroicons.dev/](https://heroicons.dev/) |
+| [https://shape.so/](https://shape.so/) |
+| [https://lineicons.com/icons/](https://lineicons.com/icons/) |
+| [https://iconsvg.xyz/](https://iconsvg.xyz/) |
+| [https://polaris-icons.shopify.com/](https://polaris-icons.shopify.com/) |
+| [http://www.evericons.com/](http://www.evericons.com/) |
+| [https://www.iconshock.com/freeicons/](https://www.iconshock.com/freeicons/) |
+| [https://www.iosicongallery.com/](https://www.iosicongallery.com/) |
+| [https://www.visiwig.com/icons/](https://www.visiwig.com/icons/) |
+| [https://tabler-icons.io/](https://tabler-icons.io/) |
+| [https://www.flaticon.com/](https://www.flaticon.com/) |
+| [https://www.svgrepo.com/](https://www.svgrepo.com/) |
+| [https://3dicons.co/](https://3dicons.co/) |
 
-</details>
-<hr>
-
+---
   
   
 
 <!--------------------------- Design Systems --------------------------->
-<details open>
-<summary><b>Design Systems<b></summary>
-<br>
+## Design Systems
   
-| Resource Name | Link |
+| Resource Link |
 | ----------- | ----------- |
-| UI Design Daily | https://uidesigndaily.com/ |
-| Carbon Design System by IBM | https://www.carbondesignsystem.com/ |
-| 100 UI Library | https://100dailyui.webflow.io/ |
-| Sketch App Sources | https://www.sketchappsources.com/ |
-| Design System Checklist | https://www.designsystemchecklist.com/ |
-| Wakanda Design System | https://design.wonderflow.ai/ |
-| Finastra Design System | https://www.figma.com/community/file/982657631921263317 |
-| Ant Design System | https://antforfigma.com/ |
-| Atlassian Design System | https://www.figma.com/community/file/857042449394640587 |
-| GitHub Primer | https://www.figma.com/community/file/854767373644076713 |
-| Salesforce Design System | https://www.figma.com/community/file/854593583696357016 |
-| Marvel Styleguide | https://marvelapp.com/styleguide/overview/introduction |
-| Polaris by Shopify | https://www.figma.com/community/file/930504625460155381 |
-| Mixpanel Design System | https://design.mixpanel.com/ |
-| Mozilla Design System | https://protocol.mozilla.org/ |
-| Mineral UI Design System | https://mineral-ui.netlify.app/ |
-| Wonderbly Design System | http://design-system.lostmy.name/ |
-| Panda UI Design System | https://panda.sipgatedesign.com/ |
+| [https://uidesigndaily.com/](https://uidesigndaily.com/) |
+| [https://www.carbondesignsystem.com/](https://www.carbondesignsystem.com/) |
+| [https://100dailyui.webflow.io/](https://100dailyui.webflow.io/) |
+| [https://www.sketchappsources.com/](https://www.sketchappsources.com/) |
+| [https://www.designsystemchecklist.com/](https://www.designsystemchecklist.com/) |
+| [https://design.wonderflow.ai/](https://design.wonderflow.ai/) |
+| [https://www.figma.com/community/file/982657631921263317](https://www.figma.com/community/file/982657631921263317) |
+| [https://antforfigma.com/](https://antforfigma.com/) |
+| [https://www.figma.com/community/file/857042449394640587](https://www.figma.com/community/file/857042449394640587) |
+| [https://www.figma.com/community/file/854767373644076713](https://www.figma.com/community/file/854767373644076713) |
+| [https://www.figma.com/community/file/854593583696357016](https://www.figma.com/community/file/854593583696357016) |
+| [https://marvelapp.com/styleguide/overview/introduction](https://marvelapp.com/styleguide/overview/introduction) |
+| [https://www.figma.com/community/file/930504625460155381](https://www.figma.com/community/file/930504625460155381) |
+| [https://design.mixpanel.com/](https://design.mixpanel.com/) |
+| [https://protocol.mozilla.org/](https://protocol.mozilla.org/) |
+| [https://mineral-ui.netlify.app/](https://mineral-ui.netlify.app/) |
+| [http://design-system.lostmy.name/](http://design-system.lostmy.name/) |
+| [https://panda.sipgatedesign.com/](https://panda.sipgatedesign.com/) |
 
-</details>
-<br/>
-<hr>
+---
 
 
 <!--------------------------- Design Inspirations --------------------------->
