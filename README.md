@@ -9,7 +9,7 @@
 ## What is ResourcesHub?
 > **ResourcesHub** focuses on collecting high quality resources and tools which can be used by designers and developers in daily work. The repo keeps being updated continuously and new resouces are been added. Don't hesitate to open an [issue](https://github.com/DevrajDC/resourceshub/issues/new) or create [pull request](https://github.com/DevrajDC/resourceshub/pulls) to contribute to the project.
 
-If you like this repo, be sure to ⭐ it.
+If you like this repo, be sure to ⭐ Star it.
 
 ---
 
@@ -129,6 +129,7 @@ If you like this repo, be sure to ⭐ it.
 | [https://www.flaticon.com/](https://www.flaticon.com/) |
 | [https://www.svgrepo.com/](https://www.svgrepo.com/) |
 | [https://3dicons.co/](https://3dicons.co/) |
+| [https://www.vectornator.io/icons](https://www.vectornator.io/icons) |
 
 [⬆ back to top](#table-of-contents)
 
@@ -237,7 +238,7 @@ If you like this repo, be sure to ⭐ it.
 <a href="https://www.instagram.com/designfordev" style="text-decoration:none">
   <img height="30" src = "https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
-<a href="https://discord.gg/druweDMn3s" style="text-decoration:none">
+<a href="https://discord.gg/gM3bG4rAU5" style="text-decoration:none">
   <img height="30" src="https://img.shields.io/badge/discord-darkblue.svg?&style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 <a href="mailto:devrajchatribin9978@gmail.com" style="text-decoration:none">
