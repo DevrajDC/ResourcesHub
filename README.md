@@ -112,6 +112,7 @@ If you like this repo, be sure to ⭐ Star it.
 | [https://icons8.com/icons](https://icons8.com/icons) |
 | [https://fontawesome.com/](https://fontawesome.com/) |
 | [https://material.io/icons](https://material.io/icons) |
+| [https://devicon.dev](https://devicon.dev) |
 | [https://css.gg/app](https://css.gg/app) |
 | [https://boxicons.com/](https://boxicons.com/) |
 | [https://ikonate.com/](https://ikonate.com/) |
