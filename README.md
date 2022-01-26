@@ -127,6 +127,7 @@ If you like this repo, be sure to ⭐ Star it.
 | [https://www.iosicongallery.com/](https://www.iosicongallery.com/) |
 | [https://www.visiwig.com/icons/](https://www.visiwig.com/icons/) |
 | [https://tabler-icons.io/](https://tabler-icons.io/) |
+| [https://tablericons.com/](https://tablericons.com/) |
 | [https://www.flaticon.com/](https://www.flaticon.com/) |
 | [https://www.svgrepo.com/](https://www.svgrepo.com/) |
 | [https://3dicons.co/](https://3dicons.co/) |
