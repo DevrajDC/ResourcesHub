@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  #__next,
+  body,
+  html {
+    min-height: 100vh;
+  }
+}
