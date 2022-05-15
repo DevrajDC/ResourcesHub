@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "resourcer": "cd src/resourcer && node index"
   },
   "dependencies": {
     "@headlessui/react": "^1.6.1",
@@ -17,6 +18,7 @@
     "next-contentlayer": "^0.2.4",
     "nextra": "^1.1.0",
     "nextra-theme-docs": "^1.2.6",
+    "puppeteer": "^14.1.0",
     "react": "18.1.0",
     "react-dom": "18.1.0",
     "yarn": "^1.22.18"
