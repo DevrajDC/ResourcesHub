@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "resourcer": "cd src/resourcer && node index"
+    "scrap": "node ./scripts/scrapper.mjs"
   },
   "dependencies": {
     "@headlessui/react": "^1.6.1",
@@ -32,6 +32,10 @@
     "postcss": "^8.4.13",
     "postcss-import": "^14.1.0",
     "tailwindcss": "^3.0.24",
-    "typescript": "^4.6.4"
+    "typescript": "^4.6.4",
+    "chalk": "^5.0.1",
+    "clear": "^0.1.0",
+    "figlet": "^1.5.2",
+    "inquirer": "^8.2.4"
   }
 }
