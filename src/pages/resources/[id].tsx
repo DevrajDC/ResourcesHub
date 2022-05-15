@@ -8,6 +8,9 @@ function Page() {
 export default Page;
 
 export async function getStaticProps() {
+  
+
+
   return {
     props: {
       resources: allResources,
@@ -15,4 +18,11 @@ export async function getStaticProps() {
   };
 }
 
+export const getStaticPaths = async () => {
+
+  return {
+      paths: [], //indicates that no page needs be created at build time
+      fallback: 'blocking' //indicates the type of fallback
+  }
+}
 
