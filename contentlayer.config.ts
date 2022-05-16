@@ -1,13 +1,33 @@
-import { defineDocumentType, makeSource } from 'contentlayer/source-files';
+import {
+  defineDocumentType,
+  defineNestedType,
+  makeSource,
+} from 'contentlayer/source-files';
 
-// const Collection = defineDocumentType(() => ({
-//   name: 'Collection',
-// }));
-
-export const Resource = defineDocumentType(() => ({
-  name: 'Resource',
+const Category = defineDocumentType(() => ({
+  name: 'Category',
   filePathPattern: `**/*.json`,
   contentType: 'data',
+  fields: {
+    name: {
+      type: 'string',
+      required: true,
+    },
+    resources: {
+      type: 'list',
+      of: Resource,
+    },
+  },
+  computedFields: {
+    url: {
+      type: 'string',
+      resolve: (resource: any) => `/resources/${resource._raw.flattenedPath}`,
+    },
+  },
+}));
+
+export const Resource = defineNestedType(() => ({
+  name: 'Resource',
   fields: {
     title: {
       type: 'string',
@@ -21,29 +41,17 @@ export const Resource = defineDocumentType(() => ({
     },
     image: {
       type: 'string',
+      default: '', //TODO: Add a placeholder image url here
       description: 'Image for the resource',
-      required: true,
     },
     link: {
       type: 'string',
       required: true,
-    },
-    tags: {
-      type: 'list',
-      of: {
-        type: 'string',
-      },
-    },
-  },
-  computedFields: {
-    url: {
-      type: 'string',
-      resolve: (resource) => `/resources/${resource._raw.flattenedPath}`,
     },
   },
 }));
 
 export default makeSource({
   contentDirPath: 'content',
-  documentTypes: [Resource],
+  documentTypes: [Category],
 });
