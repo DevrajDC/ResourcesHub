@@ -259,6 +259,22 @@ If you like this repo, be sure to ⭐ Star it.
 <table>
   <tbody>
     <tr>
+       <td align="center">
+        <a href="https://github.com/DevrajDC">
+          <img alt="" src="https://avatars.githubusercontent.com/u/58144379?v=4" width="130px;"><br>
+          <sub><b>Sidwebworks</b></sub>
+        </a>
+        <br>
+        <a href="https://github.com/DevrajDC/resourceshub/" title="Code">💻</a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/DevrajDC">
+          <img alt="" src="https://avatars.githubusercontent.com/u/52820662?v=4" width="130px;"><br>
+          <sub><b>Shridhar Kamat</b></sub>
+        </a>
+        <br>
+        <a href="https://github.com/DevrajDC/resourceshub/" title="Code">💻</a>
+      </td>
       <td align="center">
         <a href="https://github.com/DevrajDC">
           <img alt="" src="https://avatars.githubusercontent.com/u/65373279" width="130px;"><br>
