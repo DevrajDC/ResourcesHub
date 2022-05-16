@@ -3,6 +3,7 @@ import {
   defineNestedType,
   makeSource,
 } from 'contentlayer/source-files';
+import { nanoid } from 'nanoid';
 
 const Category = defineDocumentType(() => ({
   name: 'Category',
@@ -15,6 +16,7 @@ const Category = defineDocumentType(() => ({
     },
     resources: {
       type: 'list',
+      required: true,
       of: Resource,
     },
   },
@@ -44,7 +46,11 @@ export const Resource = defineNestedType(() => ({
       default: '', //TODO: Add a placeholder image url here
       description: 'Image for the resource',
     },
-    link: {
+    url: {
+      type: 'string',
+      required: true,
+    },
+    _id: {
       type: 'string',
       required: true,
     },

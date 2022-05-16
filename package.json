@@ -12,21 +12,18 @@
   "dependencies": {
     "@headlessui/react": "^1.6.1",
     "@heroicons/react": "^1.0.6",
-    "add": "^2.0.6",
     "contentlayer": "^0.2.4",
+    "nanoid": "^3.3.4",
     "next": "12.1.6",
     "next-contentlayer": "^0.2.4",
-    "nextra": "^1.1.0",
-    "nextra-theme-docs": "^1.2.6",
-    "puppeteer": "^14.1.0",
     "react": "18.1.0",
-    "react-dom": "18.1.0",
-    "yarn": "^1.22.18"
+    "react-dom": "18.1.0"
   },
   "devDependencies": {
     "@types/react": "^18.0.9",
     "@types/react-dom": "^18.0.3",
     "@types/validator": "^13.7.2",
+    "puppeteer": "^14.1.0",
     "autoprefixer": "^10.4.7",
     "chalk": "^5.0.1",
     "clear": "^0.1.0",
